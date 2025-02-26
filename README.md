@@ -26,10 +26,10 @@
 <p>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px" align="right">
   <ul>
-    🛡 <b>Cybersecurity & Bug Bounty</b> (Focus on Web Exploitation & Pentesting)</li>
-    🔥 <b>CTF & Ethical Hacking</b> (TryHackMe, HTB)</li>
-    💻 <b>Web Development</b> (JS, React.js, Next.js, Node.js)</li>
-    📚 <b>Continuous Learning</b> (Always learning new security methodologies)</li>
+    <li>🛡 <b>Cybersecurity & Bug Bounty</b> (Focus on Web Exploitation & Pentesting)</li>
+    <li>🔥 <b>CTF & Ethical Hacking</b> (TryHackMe, HTB)</li>
+    <li>💻 <b>Web Development</b> (JS, React.js, Next.js, Node.js)</li>
+    <li>📚 <b>Continuous Learning</b> (Always learning new security methodologies)</li>
   </ul>
 </p>
 

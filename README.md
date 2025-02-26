@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kevin! 🏴‍☠️</h1>
+<h1 align="center">Hi there, I'm Kevin</h1>
 <h3 align="center">Cybersecurity Enthusiast | Bug Hunter | Web Developer</h3>
 
 ---

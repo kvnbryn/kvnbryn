@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kevin! 🏴‍☠️</h1>
+<h1 align="center">Hi there, I'm Kevin </h1>
 <h3 align="center">Cybersecurity Enthusiast | Bug Hunter | Web Developer</h3>
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kvnbryn&show_icons=true&theme=radical&count_private=true" />

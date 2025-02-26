@@ -55,7 +55,7 @@
 
 ## What I Do
 <p>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDEydXRkY3Fma2tiMm50M2VqZjl0MjN1eWd5aWN3YjBrdWN2anNkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="23%" style="max-width: 10px; height: auto;" align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDEydXRkY3Fma2tiMm50M2VqZjl0MjN1eWd5aWN3YjBrdWN2anNkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="27%" style="max-width: 10px; height: auto;" align="right">
   <ul>
 <p>
   <p>🛡 <b>Cybersecurity & Bug Bounty</b>: Focus on Web Exploitation & Pentesting</p>

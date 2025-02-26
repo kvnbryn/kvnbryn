@@ -27,21 +27,19 @@
 ---
 
 ## 🛡 What I Do
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🛡 <b>Cybersecurity & Bug Bounty</b> (Focus on Web Exploitation & Pentesting)</li>
-        <li>🔥 <b>CTF & Ethical Hacking</b> (TryHackMe, HTB)</li>
-        <li>💻 <b>Web Development</b> (JS, React.js, Next.js, Node.js)</li>
-        <li>📚 <b>Continuous Learning</b> (Always learning new security methodologies)</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🛡 <b>Cybersecurity & Bug Bounty</b> (Focus on Web Exploitation & Pentesting)</li>
+      <li>🔥 <b>CTF & Ethical Hacking</b> (TryHackMe, HTB)</li>
+      <li>💻 <b>Web Development</b> (JS, React.js, Next.js, Node.js)</li>
+      <li>📚 <b>Continuous Learning</b> (Always learning new security methodologies)</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px">
+  </div>
+</div>
 
 ---
 

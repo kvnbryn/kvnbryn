@@ -4,6 +4,7 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kvnbryn&show_icons=true&theme=radical&count_private=true" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbryn&layout=compact&theme=radical" />
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;Cybersecurity+Researcher;Web+Developer)](https://git.io/typing-svg)
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackerOne](https://img.shields.io/badge/HackerOne-%2312100E.svg?&style=for-the-badge&logo=hackerone&logoColor=white)

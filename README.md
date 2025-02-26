@@ -68,7 +68,7 @@
 
 ---
 
-## Get in Touch 📫 
+## Contact 📫 
 <p align="center">
   <a href="https://instagram.com/kvnbryn._"><img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram" /></a>
   <a href="https://tryhackme.com/p/kvnbryank"><img src="https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=tryhackme" /></a>

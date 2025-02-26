@@ -27,7 +27,6 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px" align="right">
   <ul>
 <p>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px" align="right">
   <p>🛡 <b>Cybersecurity & Bug Bounty</b>: Focus on Web Exploitation & Pentesting</p>
   <p>🔥 <b>CTF & Ethical Hacking</b>: TryHackMe, HTB</p>
   <p>💻 <b>Web Development</b>: JS, React.js, Next.js, Node.js</p>

@@ -27,10 +27,19 @@
 ---
 
 ## 🛡 What I Do
-- 🛡 **Cybersecurity & Bug Bounty** (Focus on Web Exploitation & Pentesting)
-- 🔥 **CTF & Ethical Hacking** (TryHackMe, HTB)
-- 💻 **Web Development** (JS, React.js, Next.js, Node.js)
-- 📚 **Continuous Learning** (Always learning new security methodologies)
+<div align="center">
+  <div align="left" style="display: inline-block; width: 50%;">
+    <ul>
+      <li>🛡 <b>Cybersecurity & Bug Bounty</b> (Focus on Web Exploitation & Pentesting)</li>
+      <li>🔥 <b>CTF & Ethical Hacking</b> (TryHackMe, HTB)</li>
+      <li>💻 <b>Web Development</b> (JS, React.js, Next.js, Node.js)</li>
+      <li>📚 <b>Continuous Learning</b> (Always learning new security methodologies)</li>
+    </ul>
+  </div>
+  <div align="right" style="display: inline-block; width: 45%;">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+  </div>
+</div>
 
 ---
 
@@ -46,8 +55,4 @@
 ## 🔥 Keep Hustling!
 <p align="center">
   _"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing."_
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px">
 </p>

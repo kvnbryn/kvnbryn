@@ -27,8 +27,8 @@
 ---
 
 ## 🛡 What I Do
-<div align="center">
-  <div align="left" style="display: inline-block; width: 50%;">
+<div align="center" style="display: flex; align-items: center;">
+  <div align="left" style="width: 50%;">
     <ul>
       <li>🛡 <b>Cybersecurity & Bug Bounty</b> (Focus on Web Exploitation & Pentesting)</li>
       <li>🔥 <b>CTF & Ethical Hacking</b> (TryHackMe, HTB)</li>
@@ -36,8 +36,8 @@
       <li>📚 <b>Continuous Learning</b> (Always learning new security methodologies)</li>
     </ul>
   </div>
-  <div align="right" style="display: inline-block; width: 45%;">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+  <div align="right" style="width: 50%; text-align: center;">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80%">
   </div>
 </div>
 

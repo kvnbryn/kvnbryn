@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kevin! 🏴‍☠️</h1>
-<h3 align="center">Cybersecurity Enthusiast | Bug Bounty Hunter | Web Developer</h3>
+<h3 align="center">Cybersecurity Enthusiast | Bug Hunter | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;Cybersecurity+Researcher;Web+Developer" />
